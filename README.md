@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shresh15/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shresh15/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shresh15/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2938-separate-black-and-white-balls](https://github.com/shresh15/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shresh15/Leetcode-Problems/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/shresh15/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
+## Greedy
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/shresh15/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
