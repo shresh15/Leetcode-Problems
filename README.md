@@ -26,9 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shresh15/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2938-separate-black-and-white-balls](https://github.com/shresh15/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
 | [2938-separate-black-and-white-balls](https://github.com/shresh15/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shresh15/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shresh15/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
