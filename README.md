@@ -48,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shresh15/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/shresh15/Leetcode-Problems/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shresh15/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/shresh15/Leetcode-Problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
