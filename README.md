@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shresh15/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/shresh15/Leetcode-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shresh15/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/shresh15/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shresh15/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shresh15/Leetcode-Problems/tree/master/0090-subsets-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/shresh15/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/shresh15/Leetcode-Problems/tree/master/0075-sort-colors) |
 ## String
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shresh15/Leetcode-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shresh15/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shresh15/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shresh15/Leetcode-Problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
