@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shresh15/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shresh15/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/shresh15/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shresh15/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/shresh15/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/shresh15/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shresh15/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/shresh15/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/shresh15/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shresh15/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/shresh15/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shresh15/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2938-separate-black-and-white-balls](https://github.com/shresh15/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
 ## Hash Table
 |  |
