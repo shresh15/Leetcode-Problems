@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shresh15/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/shresh15/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/shresh15/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0941-valid-mountain-array](https://github.com/shresh15/Leetcode-Problems/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
