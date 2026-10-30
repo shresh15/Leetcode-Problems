@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shresh15/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/shresh15/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/shresh15/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shresh15/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/shresh15/Leetcode-Problems/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shresh15/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shresh15/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shresh15/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shresh15/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shresh15/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shresh15/Leetcode-Problems/tree/master/0090-subsets-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shresh15/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
